@@ -1,8 +1,13 @@
 # ft_transcendence
-ft_transcendence is the latest project from 42School. 
-The aim of this project is to take us in a completely different direction from everything we've seen in the curriculum (C and C++ language) by getting us to create a fullstack website.
+ft_transcendence is the latest project from 42School.
+
+
+The aim of this project is to take us in a completely different direction from everything we've seen in the common core (C and C++ language) by getting us to create a fullstack website.
+
 We used HTML, CSS (Bootstrap) and Javascript for the frontend, and Django (Python) for the backend. The database uses PostgreSQL. These languages were imposed on us to carry out the project.
+
 The project was carried out in groups of 4.
+
 The site implements a Pong game with different features that we could choose according to our desires.
 
 ### Here's a list of the features offered by our project:
