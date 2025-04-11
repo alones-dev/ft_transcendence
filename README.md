@@ -1,4 +1,4 @@
-# ft_transcendence
+# 🚀 ft_transcendence
 ft_transcendence is the latest project from 42School.
 
 
@@ -10,20 +10,35 @@ The project was carried out in groups of 4.
 
 The site implements a Pong game with different features that we could choose according to our desires.
 
-### Here's a list of the features offered by our project:
-- A local pong game
-- User management including account creation, avatar management, information modification, presence system, friends list...
-- Remote connection from API 42
-- Remote pong to play online with two browsers
-- A matchmaking system with the ability to create private rooms
-- Game customization (paddle color, soccer field, etc.)
-- Live chat (works with blocked users)
-- A tournament system
-- AI to challenge players locally
-- Game statistics system
-- Support for different languages (French, English and Spanish)
+### 🎮 Here's a list of the features offered by our project:
+- 🏓 A local pong game
+- 👥 User management including account creation, avatar management, information modification, presence system, friends list...
+- 🔗 Remote connection from API 42
+- 🌍 Remote pong to play online with two browsers
+- 🏆 A matchmaking system with the ability to create private rooms
+- 🎨 Game customization (paddle color, soccer field, etc.)
+- 💬 Live chat (works with blocked users)
+- 🏅 A tournament system
+- 🤖 AI to challenge players locally
+- 📊 Game statistics system
+- 🌎 Support for different languages (French, English and Spanish)
 
-## Usage
+## 🛠️ Technologies used
+- **Frontend**:
+  - HTML
+  - CSS (Bootstrap)
+  - JavaScript
+  
+- **Backend**:
+  - Django (Python)
+
+- **Database**:
+  - PostgreSQL
+
+- **Other Tools**:
+  - Docker for managing the development environment
+
+## 📦 Usage
 **1. Clone the repository**
 ```
 git clone https://github.com/alones-dev/ft_transcendence.git
